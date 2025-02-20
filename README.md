@@ -4,16 +4,18 @@ Welcome to the Front-End Project! This is a small-scale project aimed at showcas
 
 ## Getting Started 🛠️
 
-##Project
-  ⭕HTML CSS templates
-      galaxy🚀
-      Personal resume - Anusha Ansari🧑‍💻
-      Technology📱
-      Technology2🔌
-  ⭕JavaScript project
-      Calculator🧮
-      Partition of collection🎞️
-      To do list📑
+# 📚 Front-End Projects
+
+## ⭕ HTML & CSS Templates
+- **Galaxy** 🚀
+- **Personal Resume - Anusha Ansari** 🧑‍💻
+- **Technology** 📱
+- **Technology2** 🔌
+
+## ⭕ JavaScript Projects
+- **Calculator** 🧮
+- **Partition of Collection** 🎞️
+- **To Do List** 📑
 
 ### Prerequisites
 
