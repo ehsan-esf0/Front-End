@@ -1,0 +1,15 @@
+.app {
+    &__description {
+        margin-bottom: 1rem;
+    }
+
+    &__info {
+        margin-bottom: 1.5rem;
+    }
+    
+    &__buttons {
+        display: flex;
+        justify-content: center;
+        gap: 0 1rem;
+    }
+}
